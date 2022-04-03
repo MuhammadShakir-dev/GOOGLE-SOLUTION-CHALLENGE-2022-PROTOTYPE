@@ -1,6 +1,6 @@
 # GOOGLE-SOLUTION-CHALLENGE-2022-PROTOTYPE
 <h2>LINK TO OUR PROTOTYPE</h2>
-  <a>https://www.figma.com/file/okAf86yrJtG9ct3h4FEsoa/SOLUTION-CHALLENGE-PROTOTYPE?node-id=0%3A1</a>
+  <a>https://www.figma.com/proto/okAf86yrJtG9ct3h4FEsoa/SOLUTION-CHALLENGE-PROTOTYPE?scaling=scale-down&page-id=0%3A1&starting-point-node-id=25%3A25&node-id=25%3A25</a>
   
   
   
